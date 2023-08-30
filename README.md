@@ -1,7 +1,7 @@
 ### Olá! Me chamo Otávio Medeiros.
 
--🎓 Graduando Ciência da Computação.
--👨‍💻 Experiência com SAP Business One.   
+-🎓 Graduando Ciência da Computação
+-👨‍💻 Experiência com SAP Business One  
 #
 
 <div>
