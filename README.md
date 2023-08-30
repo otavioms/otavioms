@@ -1,8 +1,8 @@
 ### Olá! Me chamo Otávio Medeiros.
 
 -🎓 Graduando Ciência da Computação.
--👨‍💻 Experiência com SAP Business One.                          
-
+-👨‍💻 Experiência com SAP Business One.   
+#
 
 <div>
 <a href = "mailto:otavioms2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
