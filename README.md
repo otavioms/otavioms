@@ -1,7 +1,7 @@
 ### Olá! Me chamo Otávio Medeiros.
 
 -🎓 Cursando Ciência da Computação                   
--👨‍💻 Experiência com SAP Business One  
+-👨‍💻 Trabalho Como Analista de Suporte Técnico 
 #
 
 <div>
