@@ -1,7 +1,7 @@
 ### Olá! Me chamo Otávio Medeiros.
 
 -🎓 Cursando Ciência da Computação                   
--👨‍💻 Trabalho Como Analista de Suporte Técnico 
+-👨‍💻 Trabalho Como Analista de Qualidade
 #
 
 <div>
