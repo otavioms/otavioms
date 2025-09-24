@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Otávio Medeiros
 
-Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e qualidade de software, sempre em busca de criar soluções eficientes e confiáveis.
+Bem-vindo ao meu perfil! Sou fascinado por tecnologia e desenvolvimento de software, sempre em busca de criar soluções eficientes e confiáveis.
 
 ## 🚀 Sobre mim
 
