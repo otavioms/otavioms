@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou fascinado por tecnologia e desenvolvimento de softw
 ## 🚀 Sobre mim
 
 🎓 **Cursando Ciência da Computação** - Desenvolvendo uma base sólida em programação e algoritmos  
-💻 **Estudante de Desenvolvimento** - Focado em Backend, Mobile e Desktop
+💻 **Estudante de Desenvolvimento** - Focado em Backend, Mobile e Desktop   
 👨‍💻 **Trabalho como Analista de Qualidade** - Garantindo excelência através de testes e processos
 
 ---
